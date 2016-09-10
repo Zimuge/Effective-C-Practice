@@ -15,7 +15,7 @@ int main()
 	cout << obj.getValue() << endl;
 	cout << obj1.getValue() << endl;
 
-
+	cout << "ºÇºÇ" << endl;
 
     return 0;
 }
